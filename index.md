@@ -54,7 +54,7 @@ Hadi does not sell your data and does not share it with anyone. The only outside
 
 ## Children
 
-Hadi is not directed at children under 13 and does not knowingly collect information from them. [Confirm this matches the age group you choose in Play Console.]
+Hadi is not directed at children under 13 and does not knowingly collect information from them.
 
 ## Your choices
 
@@ -66,4 +66,4 @@ If this policy changes, the new version will be published at the same address wi
 
 ## Contact
 
-Questions about privacy: [your contact email]
+Questions about privacy: kirodevelopertest@gmail.com
