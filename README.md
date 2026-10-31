@@ -1,0 +1,1 @@
+Privacy policy for the Hadi Android app.
